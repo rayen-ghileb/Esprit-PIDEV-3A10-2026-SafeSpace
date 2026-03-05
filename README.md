@@ -166,12 +166,12 @@ SafeSpace-fullv5/
 
 | Name | Module |
 |---|---|
-| **Bilel** | User Management, Chatbot (Connor), Auth & Profiles |
-| **Rayen** | Appointments, Payments, Session Reports, Risk Analysis |
-| **Amen** | Real-time Messaging, Notifications, Audio/Image messages |
-| **[ Feed Contributor ]** | Community Feed, Posts, Reactions |
-| **[ Reclamation Contributor ]** | Reclamations, AI Analysis |
-| **[ QuestTodo Contributor ]** | Questionnaires, To-Do Lists |
+| **Farah Akermi** | User Management, Chatbot (Connor), Auth & Profiles |
+| **Rayen Hbili** | Appointments, Payments, Session Reports, Risk Analysis |
+| **Arij Jaoua** | Real-time Messaging, Notifications, Audio/Image messages |
+| **Rayen Ghileb** | Community Feed, Posts, Reactions |
+| **Abderrahmen Gammoudi** | Reclamations, AI Analysis |
+| **Amenallah Ameri** | Questionnaires, To-Do Lists |
 
 ---
 
